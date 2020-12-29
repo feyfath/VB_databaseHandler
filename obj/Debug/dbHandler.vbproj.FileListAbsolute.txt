@@ -1,0 +1,12 @@
+C:\Users\FATH5\source\repos\dbHandler\bin\Debug\dbHandler.exe.config
+C:\Users\FATH5\source\repos\dbHandler\bin\Debug\dbHandler.exe
+C:\Users\FATH5\source\repos\dbHandler\bin\Debug\dbHandler.pdb
+C:\Users\FATH5\source\repos\dbHandler\bin\Debug\dbHandler.xml
+C:\Users\FATH5\source\repos\dbHandler\obj\Debug\dbHandler.vbprojAssemblyReference.cache
+C:\Users\FATH5\source\repos\dbHandler\obj\Debug\dbHandler.Form1.resources
+C:\Users\FATH5\source\repos\dbHandler\obj\Debug\dbHandler.Resources.resources
+C:\Users\FATH5\source\repos\dbHandler\obj\Debug\dbHandler.vbproj.GenerateResource.cache
+C:\Users\FATH5\source\repos\dbHandler\obj\Debug\dbHandler.vbproj.CoreCompileInputs.cache
+C:\Users\FATH5\source\repos\dbHandler\obj\Debug\dbHandler.exe
+C:\Users\FATH5\source\repos\dbHandler\obj\Debug\dbHandler.xml
+C:\Users\FATH5\source\repos\dbHandler\obj\Debug\dbHandler.pdb
